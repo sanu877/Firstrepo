@@ -7,6 +7,9 @@ public class HomePage {
         System.out.println("this is test2");
         System.out.println("this is test3");
         System.out.println("this is test4");
+
+    public static void main(String[] args) {
+        System.out.println("hello there");
     }
 
 }
