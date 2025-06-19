@@ -16,4 +16,8 @@ public class AccountRegistrationPage {
         System.out.println("there is don");
     }
 
+    public static void FourthMethod(){
+        System.out.println("there is don");
+    }
+
 }
